@@ -1,4 +1,24 @@
 {
+  "api": {
+    "amplifyreactapp": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2025-05-07T02:24:53.006Z",
+              "apiKeyExpirationDays": 365,
+              "description": "amplifyreactappkey"
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  },
   "auth": {
     "amplifyreactapp640d8e7e": {
       "customAuth": false,

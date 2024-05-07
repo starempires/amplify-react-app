@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyreactapp",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2025-05-07T02:24:53.006Z",
+      "keyDescription": "amplifyreactappkey"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

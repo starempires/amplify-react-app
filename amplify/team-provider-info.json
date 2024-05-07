@@ -13,7 +13,11 @@
     },
     "categories": {
       "auth": {
-        "amplifyreactapp640d8e7e": {}
+        "amplifyreactapp640d8e7e": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "amplifyreactapp": {}
       }
     }
   }
